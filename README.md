@@ -8,6 +8,8 @@ Event details :
     All backgrounds and skill levels are encouraged to complete the challenge.
     Hacktoberfest is a celebration open to everyone in our global community.
     You can sign up anytime between September 26 and October 31.
+    
+    
 Who can contribute:
 Anyone can contribute to this repositry.
 
